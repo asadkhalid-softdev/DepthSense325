@@ -1,4 +1,4 @@
-# DepthSense_325
+# Using DepthSense_325 with Python
 # ====== Description ======
 These files let you extract data from the DepthSense 325 including the colorMap, depthMap, confidenceMap, vertices and uvMap.
 
