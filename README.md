@@ -1,18 +1,19 @@
 # DepthSense_325
-# ================== Description ================== 
+# ====== Description ======
 These files let you extract data from the DepthSense 325 including the colorMap, depthMap, confidenceMap, vertices and uvMap.
 
-# ================== Requirements ================== 
+# ====== Requirements ======
 NumPy, OpenCV, Matplotlib
 
-# ================== Steps ================== 
-1. Download this repository in $HOME
+# ====== Steps ======
+1. Download this repository in $HOME and run the following commands:
 
 >> cd /home/DepthSense_325
 >> python setup.py install
+>> sudo cp /home/DepthSense_325/softkinetic.conf /etc/ld.so.conf.d 
 
-2. Edit the softkinetic.conf file
+Note: If the repo is not in the $HOME directory, edit the second line in softkinetic.conf.
 
->> gedit softkinetic.conf
+2. Run the python script:
 
-3. Add the 
+>> python depthsense_grabber.py
