@@ -2,7 +2,7 @@
 # ====== Description ======
 These files let you extract data from the DepthSense 325 including the colorMap, depthMap, confidenceMap, vertices and uvMap.
 
-# ====== Requirements ======
+# ====== Dependencies ======
 NumPy, OpenCV, Matplotlib
 
 # ====== Steps ======
