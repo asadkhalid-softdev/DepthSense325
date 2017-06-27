@@ -3,7 +3,14 @@
 These files let you extract data from the DepthSense 325 including the colorMap, depthMap, confidenceMap, vertices and uvMap.
 
 # ====== Dependencies ======
-NumPy, OpenCV, Matplotlib
+NumPy
+> pip install numpy
+
+OpenCV
+> pip install opencv-python
+
+Matplotlib
+>pip install matplotlib
 
 # ====== Steps ======
 1. Download this repository in $HOME and run the following commands:
