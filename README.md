@@ -10,7 +10,7 @@ OpenCV
 > pip install opencv-python
 
 Matplotlib
->pip install matplotlib
+> pip install matplotlib
 
 # ====== Steps ======
 1. Download this repository in $HOME and run the following commands:
