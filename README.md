@@ -21,6 +21,8 @@ Matplotlib
 
 > sudo cp $HOME/DepthSense_325/softkinetic.conf /etc/ld.so.conf.d 
 
+> sudo ldconfig
+
 Note: If the repo is not in the $HOME directory, edit the second line in softkinetic.conf.
 
 2. Run the python script:
