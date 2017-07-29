@@ -12,6 +12,9 @@ OpenCV
 Matplotlib
 > pip install matplotlib
 
+DepthSense 325 SDK
+Download SDK from https://www.softkinetic.com/support/download
+
 # ====== Steps ======
 1. Download this repository in $HOME and run the following commands:
 
