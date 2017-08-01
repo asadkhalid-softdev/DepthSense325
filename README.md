@@ -16,7 +16,7 @@ DepthSense 325 SDK
 > Download and Install SDK from https://www.softkinetic.com/support/download
 
 # ====== Steps ======
-1. Download this repository in $HOME and run the following commands:
+1. Download/Clone this repository in $HOME and run the following commands:
 
 > cd $HOME/DepthSense_325
 
