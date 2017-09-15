@@ -1,6 +1,7 @@
 # Using DepthSense 325 with Python
 # ====== Description ======
 These files let you extract data from the DepthSense 325 including the colorMap, depthMap, confidenceMap, vertices and uvMap.
+Youtube Tutorial: https://www.youtube.com/watch?v=G95gE5XfCho&t=51s
 
 # ====== Dependencies ======
 NumPy
